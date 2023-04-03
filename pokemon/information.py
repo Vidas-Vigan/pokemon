@@ -1,0 +1,3 @@
+from pokemontype import *
+
+
